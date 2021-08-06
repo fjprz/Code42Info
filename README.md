@@ -21,4 +21,4 @@ Destination:       ${Code42BackupDestination}\
 Backup Staleness:  ${BKFreshnessCheck} Days\
 Backup Status:     ${BackupGrade}\
 \
-*This EA flips a separate pop-up menu EA which can be used to build smart groups. Jamf's current Regex parsing does not work with multi-line EAs.\
+*This EA flips a separate pop-up menu EA which can be used to build smart groups. Jamf's current Regex parsing does not work with multi-line EAs.

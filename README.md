@@ -1,11 +1,11 @@
 # Code42Info
 Code42 Info EA Script
 
-# Pulls several bits of information about a backup set to determine health of said set
-# Credit: bpavlov post on JamfNation (Posted: 8/4/2020 at 2:57 PM CDT)
-# Additional Credit: AdminIA post on JamfNation (Posted: 8/12/2020 at 1:20 PM CDT)
-# https://www.jamf.com/jamf-nation/discussions/36403/code42-crashplan-extension-attributes-v8-2-2020
-# Frankensteined by Francisco Perez
+Pulls several bits of information about a backup set to determine health of said set
+Credit: bpavlov post on JamfNation (Posted: 8/4/2020 at 2:57 PM CDT)
+Additional Credit: AdminIA post on JamfNation (Posted: 8/12/2020 at 1:20 PM CDT)
+https://www.jamf.com/jamf-nation/discussions/36403/code42-crashplan-extension-attributes-v8-2-2020
+Frankensteined by Francisco Perez
 
 Provides Code42 info below:
 
